@@ -1,0 +1,7 @@
+{
+  "name": "deploy-azure-function-from-monorepo",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
